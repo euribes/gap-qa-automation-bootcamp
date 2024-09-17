@@ -1,1 +1,9 @@
 euribe/.env
+node_modules
+example.json
+user.json
+main.css
+index.html
+commands.js
+index.js
+
